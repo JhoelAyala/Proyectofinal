@@ -21,6 +21,8 @@ Esta interfaz se divide en 6 áreas de operación:
 - Programar tarea de limpieza.
 - Utilidades.
 
+![por](/H.I.M/por.png)
+
 ***2.1.2 Limpieza del Sistema***
 
 - **Limpiador de registro.**
