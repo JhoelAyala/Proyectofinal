@@ -27,7 +27,7 @@ A continuación, se presentan algunas de las herramientas necesarias para realiz
 
 - Desarmadores imantados con diferentes puntas.
 
-![Desarmadores](https://tienda.cbdgroup.com.mx/348-large_default/desarmador-joyero-30-puntas-14209-truper.jpg)
+![Desarmadores](/1.jpg)
 
 - Desarmadores imantados de estrella y plano de diferente tamaño.
 
@@ -177,6 +177,7 @@ Hidalgo Villacís, G. E., & Yance Vera, L. V. (2012). Estudio de factibilidad y 
 
 DE, M. D. E. Y. S. ENSAMBLE Y REPARACIÓN DE COMPUTADORAS.
 
-**Link del Video por si es necesario una mejor explicacion:** 
+**Links de los videos subidos en la plataforma de Youtube:**
+***Mantenimiento de un computador:*** <https://youtu.be/HwoqXRI75Do>
 
-https://youtu.be/HwoqXRI75Do
+***Ensamblaje de un computador con ayuda del simulador de CISCO:*** <https://youtu.be/UT0Ppjban0I>
