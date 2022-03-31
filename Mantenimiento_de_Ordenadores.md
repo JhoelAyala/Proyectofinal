@@ -155,7 +155,7 @@ Es importante conocer la potencia la cual consume cada uno de nuestros aparatos 
 
 Todo ello siendo importante a la compra de un UPS para alimentar y proteger nuestros dispositivos y no solo eso que se mantengan encendidos por un cierto tiempo hasta guardar cualquier archivo o trabajo que se esté realizando.
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/WPNDTPM/tabla.png" alt="tabla" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/1Xmb312/Screenshot-1.png" alt="Screenshot-1" border="0"></a>
 
 ## **Conclusiones** 
 Siempre es importante como técnico conocer la información presentada para no cometer errores leves o graves en las máquinas, no se debe escatimar en la inversión que se realiza en la compra de herramientas, ya que, nos facilita el trabajo y nos evita problemas.
