@@ -178,6 +178,7 @@ Hidalgo Villacís, G. E., & Yance Vera, L. V. (2012). Estudio de factibilidad y 
 DE, M. D. E. Y. S. ENSAMBLE Y REPARACIÓN DE COMPUTADORAS.
 
 **Links de los videos subidos en la plataforma de Youtube:**
+
 ***Mantenimiento de un computador:*** <https://youtu.be/HwoqXRI75Do>
 
 ***Ensamblaje de un computador con ayuda del simulador de CISCO:*** <https://youtu.be/UT0Ppjban0I>
