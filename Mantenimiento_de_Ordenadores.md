@@ -1,6 +1,6 @@
-## **Ensamblaje y Mantenimiento de PC**
+# **Ensamblaje y Mantenimiento de PC**
 
-### **Introducción**
+## **Introducción**
 
 La computadora actualmente es un equipo electrónico muy usado dentro de la sociedad, más aún cuando estamos atravesando una emergencia sanitaria que se da a nivel mundial, por esta razón se debe tener el conocimiento básico de cómo se debe ensamblar, reparar y dar mantenimiento a nuestros equipos de cómputo.
 
@@ -11,7 +11,7 @@ En el video se tratan temas como; las herramientas utilizadas para el mantenimie
 En el presente trabajo también se tratará un tema muy importante, el cual es calcular de cuanta potencia debe ser un UPS para satisfacer de energía a todos nuestros aparatos electrónicos de computación, ya sea de nuestra casa o de nuestro local de ensamblaje, mantenimiento y reparación.
 
 
-### **Desarrollo**
+## **Desarrollo**
 
 El ensamble o desensamble de una computadora es todo un proceso, no existe una sola forma de hacerlo, pero hay que seguir ciertos pasos para lograr un buen ensamble, no es solo de colocar piezas porque si, sino que cada pieza tiene su lugar apropiado para su correcto funcionamiento.
 
@@ -136,6 +136,7 @@ Trapos de microfibra
 Hay que recordar que tanto el taller como el técnico tienen que estar completamente limpios, en cuanto al taller debe encontrarse libre de polvo y enfocado solo al cuidado de los equipos electrónicos, por parte del técnico siempre con sus manos limpias y descargado de la estática para que a la hora de manipular los componentes no ocurra ningún problema. En cuanto a la vestimenta es recomendable no traer ropa con mangas largas.
 
 ### **Mantenimiento correctivo cuando presenta fallas y problemas.**
+
 Para la localización del fallo y poder dar solución necesitamos un teclado y un monitor, ahora vamos a iniciar la computadora para observar qué es lo que presenta, se observa que la computadora enciende el disipador del procesador, pero el computador no da video por lo cual esa es la falla que tiene este equipo, la cual vamos a resolver mediante algunas técnicas, la primera técnica es haciendo uso de los sentidos la cual se basa en usar la parte visual, la parte auditiva, mediante el olfato y mediante el tacto.
 
 Dicho lo anterior que hay que hacer uso de los sentidos, vamos a empezar verificando en la computadora si hay algún componente que visualmente se encuentre de color negro o que aparentemente pueda parecer que está recalentado o que pueda estar presentando el problema. Como segunda parte podemos encontrar el fallo usando la audición, vamos a escuchar si presenta algún sonido anormal que es presentado el fallo. La tercera es mediante el tacto, ya que algún componente puede estar recalentado o en corto, entonces tiende a calentar mucho y de esa forma sabríamos que ahí está el problema, se recomienda hacer esto después de que el computador haya estado encendido de 10 a 15 minutos. Y la última que es mediante el olfato, cuando el componente presente un olor a quemado nos puede indicar que el componente se ha quemado y esté generando el problema.
@@ -155,3 +156,27 @@ Es importante conocer la potencia la cual consume cada uno de nuestros aparatos 
 Todo ello siendo importante a la compra de un UPS para alimentar y proteger nuestros dispositivos y no solo eso que se mantengan encendidos por un cierto tiempo hasta guardar cualquier archivo o trabajo que se esté realizando.
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/WPNDTPM/tabla.png" alt="tabla" border="0"></a>
+
+## **Conclusiones** 
+Siempre es importante como técnico conocer la información presentada para no cometer errores leves o graves en las máquinas, no se debe escatimar en la inversión que se realiza en la compra de herramientas, ya que, nos facilita el trabajo y nos evita problemas.
+
+Concluyo que, el lugar en el que vamos a realizar dicho trabajo siempre debe estar totalmente limpio y ordenado, contar con una mesa de trabajo amplía, la cual sirva para ese trabajo en específico y tomar en cuenta bastante la iluminación, porque es una pieza importante para poder observar claro lo que se está haciendo.
+
+El contar con componentes de computador para pruebas ya sea tanto para portátil o de escritorio y con un monitor y periféricos si el caso fuera que el cliente no lleve los de él, claro siempre es mucho mejor trabajar con cosas propias.
+
+Siempre estar pendiente de cosas puntuales como la estática que pueden dañar los componentes del computador a la hora de la manipulación de los mismos, la conexión y orden del cableado se lo debe realizar de la mejor manera por parte la conexión para evitar daños y por parte del orden del cableado para evitar problemas de temperatura dentro del gabinete.
+
+Como solución se obtiene que la casa necesita un UPS con una potencia de 2.063 W para así satisfacer de energía correctamente, para mantenerlos encendidos por cierto tiempo a todos los equipos conectados.
+
+Cabe destacar que cada componente puede variar el consumo de potencia debido al uso que se le dando, ya que se manejan en consumo de potencia alta como de consumo en reposo, por ello siempre es recomendable que el UPS sea mayor la potencia de la especificada anteriormente.
+
+## **Bibliografía** 
+SANCHEZ ALVAREZ, S. A. L. V. A. D. O. R. (2013). Análisis de factibilidad técnica y económica para la implementación de un centro de reparación de computadoras automotrices en Tampico, en el año 2013.
+
+Hidalgo Villacís, G. E., & Yance Vera, L. V. (2012). Estudio de factibilidad y definición de estrategias para la implementación de un servicio técnico de mantenimiento y reparación de computadoras en el centro de cómputo “Naranjito” del cantón Naranjito (Bachelor's thesis).
+
+DE, M. D. E. Y. S. ENSAMBLE Y REPARACIÓN DE COMPUTADORAS.
+
+**Link del Video por si es necesario una mejor explicacion:** 
+
+https://youtu.be/HwoqXRI75Do
