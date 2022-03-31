@@ -27,7 +27,7 @@ A continuación, se presentan algunas de las herramientas necesarias para realiz
 
 - Desarmadores imantados con diferentes puntas.
 
-![Desarmadores](/1.jpg)
+![Desarmadores](/Mantenimiento_de_Ordenadores/1.jpg)
 
 - Desarmadores imantados de estrella y plano de diferente tamaño.
 
