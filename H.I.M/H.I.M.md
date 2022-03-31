@@ -151,3 +151,13 @@ En esta pestaña, puede obtener una descripción general del sistema operativo, 
 A través del panel de descripción general del hardware, puede ver la información básica del hardware de la computadora, como la CPU, la placa base, la memoria, el almacenamiento, los gráficos, el adaptador de red y la tarjeta de sonido.
 
 ![18](/H.I.M/18.png) 
+
+## **Conclusiones**
+Con la ayuda de este software enfocado para la optimización del sistema se puede llegar a solucionar varios problemas sin ser necesario formatear la computadora, no solo eso, sino que también cuenta con otras funciones muy interesantes y muy útiles, como por ejemplo nos brinda más seguridad, información de nuestro computador, entre otras.
+
+Una de las cuestiones que hay que aclarar es que este software tiene una versión gratuita y de paga, aunque la versión gratuita es superbuena, claro que si se quiere obtener mejores funcionalidades es mejor comprarla.
+
+Concluyo que, es super práctica y muy intuitiva, cualquier persona con conocimientos básicos de computación podría usarla, ya que la misma indica para qué sirve cada una de las tantas funciones que dispone y nos brinda advertencias para no cometer algún error.
+
+## **Bibliografía** 
+Welcome · Wise Care 365 Manual. (2022, 12 enero). WiseCleaner. https://www.wisecleaner.com/help/wisecare365/
