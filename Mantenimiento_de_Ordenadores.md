@@ -90,3 +90,68 @@ Trapos de microfibra
 - Un computador en el cual nos permita realizar respaldos, en el cual tengamos programas necesarios para el mantenimiento y reparación, nos permita probar componentes, etc.
 
 ![herramientas](https://sotein.com.co/wp-content/uploads/2021/02/sotein-Empresa-de-mantenimiento-de-computadores.jpg)
+
+### **Pasos para desensamblar un computador**
+
+1. Seleccionar las herramientas a usar.
+2. Verificar la funcionalidad del equipo.
+3. Desconectar todos los dispositivos conectados en la parte trasera del Case o Gabinete.
+4. Quitar la tapa lateral izquierda del Case o Gabinete.
+5. Desconectar el conector ATX de la Fuente de Poder, así como de las unidades de CD o DVD y discos duros.
+6. Retirar la Fuente de Poder del Case o Gabinete.
+7. Desconectar los buses de datos de las unidades de CD o DVD y discos duros.
+8. Extraer el disco duro del Case o Gabinete.
+9. Retirar la Lectora del Case o Gabinete.
+10. Quitar los tornillos que aseguran la tarjeta madre al Case o Gabinete.
+11. Retirar los conectores del panel frontal de la tarjeta madre.
+12. Extraer la tarjeta madre y retirar: RAM, Cooler o disipador de calor y CPU.
+
+### **Pasos para ensamblar un computador**
+1. Seleccionar las herramientas a utilizar.
+2. Seleccione el Case o Gabinete donde ensamblara la computadora, limpie y verifique el buen estado de los conectores del panel frontal.
+3. Instalar la Fuente de Poder en el Case o Gabinete.
+4. Instalar la Unidad Lectora de CD/DVD en el Case o Gabinete.
+5. Instalar el disco duro en el Case o Gabinete.
+6. Instalar la rejilla de la tarjeta madre en la parte trasera del Case o Gabinete.
+7. Sin introducir la tarjeta madre al Case o Gabinete, proceda a:
+    1. Instalar correctamente el CPU y el Cooler o disipador de calor en la tarjeta.
+    2. Instalar las memorias RAM.
+    3. Instalar la Pila del CMOS.
+8. Introduzca la tarjeta en el Case o Gabinete y fijarla con sus tornillos.
+9. Conectar el conector ATX.
+10. Conectar conector del Cooler del CPU.
+11. Conectar las unidades de CD o DVD y discos duros a la tarjeta madre.
+12. Conectar las unidades de CD o DVD y discos duros a la fuente de poder.
+13. Conectar el panel frontal de forma correcta.
+14. Al final verificar funcionamiento del equipo.
+
+### **Consideraciones para realizar un mantenimiento preventivo**
+- Por parte del sistema operativo: los principales programas que utiliza el usuario.
+- Revisión de la instalación eléctrica, así como de la fuente de poder del Equipo.
+- Revisión del estado de los componentes y los recursos usados por el sistema, memoria, procesador y disco duro.
+- Las horas de trabajo al que se somete el computador.
+- El movimiento de datos desde y hacia esta computadora.
+- El tipo de computadora, años de servicio y calidad del Equipo.
+
+Hay que recordar que tanto el taller como el técnico tienen que estar completamente limpios, en cuanto al taller debe encontrarse libre de polvo y enfocado solo al cuidado de los equipos electrónicos, por parte del técnico siempre con sus manos limpias y descargado de la estática para que a la hora de manipular los componentes no ocurra ningún problema. En cuanto a la vestimenta es recomendable no traer ropa con mangas largas.
+
+### **Mantenimiento correctivo cuando presenta fallas y problemas.**
+Para la localización del fallo y poder dar solución necesitamos un teclado y un monitor, ahora vamos a iniciar la computadora para observar qué es lo que presenta, se observa que la computadora enciende el disipador del procesador, pero el computador no da video por lo cual esa es la falla que tiene este equipo, la cual vamos a resolver mediante algunas técnicas, la primera técnica es haciendo uso de los sentidos la cual se basa en usar la parte visual, la parte auditiva, mediante el olfato y mediante el tacto.
+
+Dicho lo anterior que hay que hacer uso de los sentidos, vamos a empezar verificando en la computadora si hay algún componente que visualmente se encuentre de color negro o que aparentemente pueda parecer que está recalentado o que pueda estar presentando el problema. Como segunda parte podemos encontrar el fallo usando la audición, vamos a escuchar si presenta algún sonido anormal que es presentado el fallo. La tercera es mediante el tacto, ya que algún componente puede estar recalentado o en corto, entonces tiende a calentar mucho y de esa forma sabríamos que ahí está el problema, se recomienda hacer esto después de que el computador haya estado encendido de 10 a 15 minutos. Y la última que es mediante el olfato, cuando el componente presente un olor a quemado nos puede indicar que el componente se ha quemado y esté generando el problema.
+
+Lo siguiente que se procede a realizar después de no haber dado con el problema mediante los sentidos es verificar indicadores electrónicos que vienen en las computadoras y que nos sirven para diagnosticar la computadora entonces para eso pues podemos encontrar en las computadoras un parlante que puede ser externamente o soldado en la placa madre, dicho parlante va a generar unos pitidos al suscitarse un problema, otro indicador es el teclado, cuando inicia la computadora hace un pequeño test y enciende en los leds incorporados en el mismo esto nos puede indicar si por lo menos le está llegando la señal o la corriente al teclado.
+
+Otros indicadores que traen las computadoras ya incorporadas en la placa madre y más que todo cuando son de gama media-alta o gama alta, manejan unos leds en la parte trasera, los cuales se van a alumbrar de color verde o rojo, dependiendo del síntoma o la falla que pueda presentar.
+
+Una vez conectado tanto cable de video, teclado y parlante vamos a encender el computador para verificar el error hay que poner mucha atención a los mismos, si se escucha un pitido en el parlante y el teclado no enciende ninguno de sus leds es que existe algún problema con algún componte. Una vez que hemos hecho esta prueba vamos a desconectar y vamos a aplicar otra opción, la cual es mediante prueba de descarte, para saber realmente si es la memoria la que está trabajando mal y no solo ella puede ser la causante, sino todos los componentes, vamos a empezar a desconectar el disco duro, lectora CD y los puertos USB del panel frontal, vamos a proceder a encender el PC únicamente con el procesador, placa madre, memoria RAM, disipador y se observa que sigue sin dar video.
+
+Vamos a hacer otra prueba, la cual consta en retirar la memoria, vamos a quitar la memoria RAM y vamos nuevamente a hacer la prueba, conectamos, observamos y tampoco es la memoria RAM, por lo que nos queda la fuente de poder, el procesador y placa madre. Probamos encendiendo exclusivamente la fuente de poder y verificamos que enciende y apaga correctamente, entonces tampoco es este componente, ahora lo que queda es probar el procesador el cual vamos a verificar que esté funcionando si el mismo calienta es funciona bien. Entonces de esta manera podemos encontrar el componente que está produciendo el problema.
+
+### **Tomas Reguladas en una casa.**
+
+Es importante conocer la potencia la cual consume cada uno de nuestros aparatos electrónicos, por ello es importante saber también su voltaje e intensidad por si el dispositivo no presentara la potencia.
+
+Todo ello siendo importante a la compra de un UPS para alimentar y proteger nuestros dispositivos y no solo eso que se mantengan encendidos por un cierto tiempo hasta guardar cualquier archivo o trabajo que se esté realizando.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/WPNDTPM/tabla.png" alt="tabla" border="0"></a>
