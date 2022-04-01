@@ -1,4 +1,4 @@
-# **Encendido de un Foco Automáticamente**  
+# **Encendido de un Foco a 120 V Automáticamente**  
 
 ## **1. Introducción**
 
